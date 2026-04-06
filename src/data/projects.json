@@ -1,0 +1,64 @@
+[
+    {
+        "id": "faircast",
+        "title": "FairCast – Secure Android Voting System",
+        "status": "completed",
+        "description": "A secure Android voting application featuring biometric face authentication with 95% security improvement, real-time vote updates, and multi-module architecture.",
+        "purpose": "Designed a secure, scalable voting platform with modern authentication mechanisms and real-time database synchronization.",
+        "learningOutcome": "Mastered Kotlin development with Firebase integration, implemented face authentication APIs, learned Firestore real-time database optimization, and designed modular Android architecture using Fragments.",
+        "tags": [
+            "Kotlin",
+            "Android",
+            "Firebase",
+            "Firestore",
+            "Face Authentication",
+            "XML"
+        ],
+        "links": {
+            "github": "",
+            "demo": null
+        }
+    },
+    {
+        "id": "dharma",
+        "title": "Dharma – MERN Stack Web Application",
+        "status": "completed",
+        "description": "A backend-focused scalable web application demonstrating full-stack development with optimized MongoDB queries, RESTful API design, and modular architecture.",
+        "purpose": "Built a production-grade full-stack application showcasing backend optimization and system design principles.",
+        "learningOutcome": "Advanced MERN stack proficiency, efficient MongoDB query optimization, scalable REST API design, JWT authentication, and async/await patterns with Node.js.",
+        "tags": [
+            "MongoDB",
+            "Express.js",
+            "React.js",
+            "Node.js",
+            "REST APIs",
+            "JWT"
+        ],
+        "links": {
+            "github": "",
+            "demo": null
+        }
+    },
+    {
+        "id": "fake-news-detection",
+        "title": "Fake News Detection – ML + Android Integration",
+        "status": "completed",
+        "description": "End-to-end machine learning system achieving 92–95% accuracy with Logistic Regression, Naive Bayes, and Random Forest models, integrated into Android frontend.",
+        "purpose": "Developed an intelligent fake news detector demonstrating ML pipeline creation, model evaluation, and mobile app integration.",
+        "learningOutcome": "Expert-level data preprocessing and EDA with Pandas & Seaborn, trained and compared multiple ML models, achieved high accuracy through feature engineering, and successfully bridged ML backend with Android UI.",
+        "tags": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Seaborn",
+            "Machine Learning",
+            "Android",
+            "Kotlin"
+        ],
+        "links": {
+            "github": "",
+            "demo": null
+        }
+    }
+]
