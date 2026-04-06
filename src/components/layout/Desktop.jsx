@@ -72,22 +72,6 @@ export default function Desktop({ onNavigate }) {
                     </motion.div>
                 </div>
             </motion.div>
-
-            {/* Scroll Hint */}
-            <motion.div
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ delay: 0.6, duration: 2 }}
-                className='absolute bottom-8 flex flex-col items-center gap-2'
-            >
-                <span className='text-[10px] text-muted uppercase tracking-widest font-mono'>Scroll Down</span>
-                <motion.div
-                    animate={{ y: [0, 8, 0] }}
-                    transition={{ duration: 2, repeat: Infinity }}
-                >
-                    <ChevronDown size={20} className='text-arch-blue/50' />
-                </motion.div>
-            </motion.div>
         </div>
     );
 }
