@@ -139,7 +139,7 @@ export default function Skills() {
                 <h3 className='text-sm font-bold text-arch-blue mb-4 uppercase tracking-wider'>Achievements</h3>
                 <div className='grid grid-cols-1 sm:grid-cols-3 gap-4'>
                     <div className='space-y-1'>
-                        <p className='text-2xl font-bold text-arch-blue'>150+</p>
+                        <p className='text-2xl font-bold text-arch-blue'>230+</p>
                         <p className='text-xs text-muted'>DSA Problems Solved</p>
                     </div>
                     <div className='space-y-1'>

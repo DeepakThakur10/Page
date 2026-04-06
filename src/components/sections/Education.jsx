@@ -7,7 +7,6 @@ const EDUCATION = [
         location: "Punjab, India",
         degree: "Bachelor of Technology – Computer Science and Engineering",
         period: "Aug 23 - Present",
-        metrics: "CGPA: 7.41",
         type: "university"
     },
     {
@@ -99,7 +98,7 @@ export default function Education() {
                 <div className='grid grid-cols-1 sm:grid-cols-2 gap-4'>
                     <div className='p-4 bg-arch-blue/5 border border-arch-blue/20 rounded-lg hover:border-arch-blue/40 transition-all'>
                         <p className='text-xs font-mono uppercase tracking-wider text-arch-blue mb-2'>DSA</p>
-                        <p className='text-sm font-medium'>150+ Problems Solved</p>
+                        <p className='text-sm font-medium'>230+ Problems Solved</p>
                     </div>
                     <div className='p-4 bg-arch-blue/5 border border-arch-blue/20 rounded-lg hover:border-arch-blue/40 transition-all'>
                         <p className='text-xs font-mono uppercase tracking-wider text-arch-blue mb-2'>HackerRank</p>

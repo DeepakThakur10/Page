@@ -15,8 +15,8 @@
             "XML"
         ],
         "links": {
-            "github": "",
-            "demo": null
+            "github": "https://github.com/DeepakThakur10/FairCast",
+            "demo": "https://urfile.in/files/PgIwG2iE/"
         }
     },
     {
@@ -35,7 +35,7 @@
             "JWT"
         ],
         "links": {
-            "github": "",
+            "github": "https://github.com/DeepakThakur10/Dharma",
             "demo": null
         }
     },
@@ -57,7 +57,7 @@
             "Kotlin"
         ],
         "links": {
-            "github": "",
+            "github": "https://github.com/DeepakThakur10/Fake-News-Detection",
             "demo": null
         }
     }
